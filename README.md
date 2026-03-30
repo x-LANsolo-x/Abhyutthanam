@@ -26,7 +26,7 @@ The core of the current system resides in the following directories:
 ### Backend (v2)
 - **Runtime:** Node.js (Express)
 - **Database:** MongoDB (via Mongoose)
-- **Storage:** Google Drive API (for payment proof uploads)
+- **Storage:** Google Drive API
 - **Email:** Nodemailer (for OTP delivery)
 - **Deployment:** Optimized for Vercel Serverless
 
