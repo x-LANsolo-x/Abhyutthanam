@@ -2,10 +2,6 @@
 
 This repository contains the full workspace for the **ABHYUTTHANAM** Event Registration System. The project is designed as a full-stack application with multiple iterations, where the **v2** folders represent the most current and stable versions of the system.
 
-## 🚀 Project Overview
-
-ABHYUTTHANAM is a robust event booking platform featuring automated OTP verification, payment proof uploads to Google Drive, and an administrative dashboard for managing registrations and event statistics.
-
 ### 📂 Repository Structure
 
 The core of the current system resides in the following directories:
